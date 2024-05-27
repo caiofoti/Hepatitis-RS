@@ -4,7 +4,7 @@ Este repositório contém os códigos Python utilizados para alimentar o painel 
 
 O painel é desenvolvido no Google Data Studio e utiliza bases de informações populacionais e geográficas do Rio Grande do Sul.
 
-Link do Painel ----------> https://lookerstudio.google.com/embed/u/0/reporting/8ef5f0f5-b51c-4fa3-b7a3-2e85c8d9dfdf/page/p_piwr3zx60c
+Link do Painel ----------> https://lookerstudio.google.com/embed/u/0/reporting/8ef5f0f5-b51c-4fa3-b7a3-2e85c8d9dfdf/page/p_jg2ifa0bbd
 
 ## Estrutura do Repositório
 
